@@ -1,0 +1,57 @@
+.maindiv{
+  overflow: hidden;
+}
+
+
+.firsttable{
+  width: 100%;
+  margin-left: 2%;
+  margin-top: 2%;
+
+}
+
+
+.firsttable th{
+  padding: 15px 25px 15px 25px;
+  text-align: center;
+}
+.firsttable td{
+  text-align: center;
+}
+
+.firsttable input {
+  outline: 0;
+  border-width: 0 0 1px ;
+  border-color: black;
+}
+
+.firsttable input:focus {
+  border-color: skyblue;
+}
+
+h2{
+  background-color: lightgrey;
+  font-size: 20px;
+  margin-left: 2%;
+}
+
+h3{
+  font-size: 15px;
+  margin-left: 4%;
+  color: skyblue;
+}
+
+.secondtable{
+  float: left;
+  width: 30%;
+  margin-left: 4%;
+}
+
+.secondtable th{
+  padding: 15px 25px 15px 25px;
+  text-align: center;
+}
+
+.secondtable .sfiles{
+  text-align: left;
+}
